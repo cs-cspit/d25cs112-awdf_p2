@@ -1,0 +1,51 @@
+.navbar{
+
+    background:#333;
+    color:white;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:20px 60px;
+
+}
+
+.navbar h2{
+
+    color:white;
+
+}
+
+.navbar ul{
+
+    display:flex;
+    list-style:none;
+
+}
+
+.navbar li{
+
+    margin-left:25px;
+
+}
+
+.navbar a{
+
+    color:white;
+    text-decoration:none;
+    font-size:18px;
+
+}
+
+.navbar a:hover{
+
+    color:yellow;
+
+}
+
+.active{
+
+    color:yellow;
+    border-bottom:2px solid yellow;
+}

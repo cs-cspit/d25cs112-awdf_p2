@@ -1,0 +1,35 @@
+.notfound{
+
+    text-align:center;
+
+    padding:80px;
+
+    min-height:500px;
+
+}
+
+.notfound h1{
+
+    font-size:80px;
+
+    color:red;
+
+}
+
+.notfound a{
+
+    display:inline-block;
+
+    margin-top:20px;
+
+    padding:10px 20px;
+
+    background:#4CAF50;
+
+    color:white;
+
+    text-decoration:none;
+
+    border-radius:5px;
+
+}

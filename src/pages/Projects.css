@@ -1,0 +1,32 @@
+.projects{
+
+    padding:40px;
+    min-height:500px;
+    text-align:center;
+
+}
+
+.projects h1{
+
+    margin-bottom:30px;
+    color:#333;
+
+}
+
+.project-card{
+
+    width:70%;
+    margin:20px auto;
+    padding:20px;
+    background:white;
+    border-radius:10px;
+    box-shadow:0 0 10px gray;
+
+}
+
+.project-card h2{
+
+    color:#4CAF50;
+    margin-bottom:10px;
+
+}
